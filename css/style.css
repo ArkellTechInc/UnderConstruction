@@ -81,7 +81,8 @@ blockquote, q {
 /* full screen, centered, responsive image via edge clipping */
 .bgImage {
 	box-sizing: border-box;
-	position: absolute;  
+	position: absolute;
+	/*top: 0;this makes the anchor at the top*/	
 	right: 0; 
 	bottom: 0;	
 	min-width: 100%; 
