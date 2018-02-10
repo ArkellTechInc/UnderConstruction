@@ -82,13 +82,13 @@ blockquote, q {
 .bgImage {
 	box-sizing: border-box;
 	position: absolute;
-	/*top: 0;this makes the anchor at the top*/	
+	top: 0;/*this makes the anchor at the top*/	
 	right: 0; 
 	bottom: 0;	
 	min-width: 100%; 
 	min-height: 100%;
-	left: 50%; 
-	transform: translateX(-50%);
+	left: 60%; 
+	transform: translateX(-60%);
 	overflow-x: hidden;
 	opacity: 0.5;
 }
@@ -121,7 +121,7 @@ blockquote, q {
 .topSpacer {
 	box-sizing: border-box;
 	position: relative;
-	top: 40vh;
+	top: 35vh;
 }
 /*--------------------------------------------------------------------- END OF CLASSES -------------------------------------------------------------------------- */
 
