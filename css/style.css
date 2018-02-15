@@ -82,7 +82,7 @@ blockquote, q {
 .bgImage {
 	box-sizing: border-box;
 	position: absolute;
-	top: 0;/*this makes the anchor at the top*/	
+	/*top: 0;this makes the anchor at the top*/	
 	right: 0; 
 	bottom: 0;	
 	min-width: 100%; 
